@@ -1,3 +1,3 @@
-Hi, I’m Freezy.
-Coding skills: Java, JavaScript
+Hi, I’m Freezy.<br>
+Coding skills: Java, JavaScript<br>
 Discord: @freezyyxd
