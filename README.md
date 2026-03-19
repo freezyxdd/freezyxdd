@@ -1,3 +1,4 @@
 Hi, I’m Freezy.<br>
-Coding skills: Java, JavaScript , html, css<br>
+Coding skills: JavaScript , html, css<br>
+Studying: Java
 Discord: @freezyyxd
